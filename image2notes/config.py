@@ -1,0 +1,1 @@
+IMG_EXT = ["jpg", "png", "jpeg"]
